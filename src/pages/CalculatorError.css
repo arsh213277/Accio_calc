@@ -1,4 +1,4 @@
-/* .calculator-error .rectangle-7 {
+.calculator-error .rectangle-7 {
   box-shadow: 30px -20px 100px 10px rgba(0, 87, 255, 0.47);
   border-radius: 30px;
   background: #FFFFFF;
@@ -8,7 +8,7 @@
   translate: -50% 0;
   width: 489px;
   height: 473px;
-} */
+}
 .calculator-error .react-calculator {
   margin-bottom: 29px;
   display: inline-block;
@@ -134,7 +134,7 @@
   width: 286px;
   box-sizing: border-box;
 }
-/* .calculator-error .error-num-1-cannot-be-empty {
+.calculator-error .error-num-1-cannot-be-empty {
   margin-left: 10px;
   text-align: center;
   overflow-wrap: break-word;
@@ -142,7 +142,7 @@
   font-weight: 700;
   font-size: 20px;
   color: #FB184E;
-} */
+}
 .error-num-1-cannot-be-empty {
   font-family: 'Montserrat';
   font-weight: 700;
