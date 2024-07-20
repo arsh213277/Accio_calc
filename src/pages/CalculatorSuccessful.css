@@ -1,0 +1,173 @@
+.calculator-successful .rectangle-7 {
+  box-shadow: 30px -20px 100px 10px rgba(0, 87, 255, 0.47);
+  border-radius: 30px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 171px;
+  translate: -50% 0;
+  width: 489px;
+  height: 473px;
+}
+.calculator-successful .react-calculator {
+  margin: 0 3.8px 29px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 36px;
+  color: #2B2B2B;
+}
+.calculator-successful .num-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 24px;
+  color: #2B2B2B;
+}
+.calculator-successful .rectangle-4 {
+  border: 2px solid #2B2B2B;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 290px;
+  height: 50px;
+}
+.calculator-successful .group-11 {
+  position: relative;
+  margin: 0 4.8px 35px 0;
+  padding: 11px 19.4px 10px 19.4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.calculator-successful .num-2 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 24px;
+  color: #2B2B2B;
+}
+.calculator-successful .rectangle-5 {
+  border: 2px solid #2B2B2B;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 290px;
+  height: 50px;
+}
+.calculator-successful .group-10 {
+  position: relative;
+  margin: 0 4.8px 35px 0;
+  padding: 11px 17px 10px 17px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.calculator-successful .container {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.calculator-successful .group-3 {
+  background: #2B2B2B;
+  position: relative;
+  display: flex;
+  padding: 16.5px 1px 15.5px 0;
+  width: 61px;
+  box-sizing: border-box;
+}
+.calculator-successful .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.calculator-successful .group-5 {
+  background: #2B2B2B;
+  position: relative;
+  display: flex;
+  padding: 16px 1px 16px 0;
+  width: 61px;
+  box-sizing: border-box;
+}
+.calculator-successful .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.calculator-successful .group-6 {
+  background: #2B2B2B;
+  position: relative;
+  display: flex;
+  padding: 21px 1px 11px 0;
+  width: 61px;
+  box-sizing: border-box;
+}
+.calculator-successful .container-3 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.calculator-successful .group-7 {
+  background: #2B2B2B;
+  position: relative;
+  display: flex;
+  padding: 18px 1px 14px 0;
+  width: 61px;
+  box-sizing: border-box;
+}
+.calculator-successful .group-8 {
+  margin: 0 4.8px 29px 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 14px;
+  width: 286px;
+  box-sizing: border-box;
+}
+.calculator-successful .success {
+  margin: 0 0 15px 9.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 20px;
+  color: #0057FF;
+}
+.calculator-successful .result-your-result-here {
+  margin-left: 9.2px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 20px;
+  color: #2B2B2B;
+}
+.calculator-successful .container {
+  box-shadow: -30px 20px 100px 10px rgba(251, 24, 78, 0.47);
+  border-radius: 30px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 66px 0 59px 0;
+  width: 489px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.calculator-successful {
+  background: #FFFFFF;
+  display: flex;
+  padding: 171px 0 147px 0;
+  width: 1393px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,172 @@
+/* .calculator-error .rectangle-7 {
+  box-shadow: 30px -20px 100px 10px rgba(0, 87, 255, 0.47);
+  border-radius: 30px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 171px;
+  translate: -50% 0;
+  width: 489px;
+  height: 473px;
+} */
+.calculator-error .react-calculator {
+  margin-bottom: 29px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 36px;
+  color: #2B2B2B;
+}
+.calculator-error .num-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 24px;
+  color: #2B2B2B;
+}
+.calculator-error .rectangle-4 {
+  border: 2px solid #2B2B2B;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 290px;
+  height: 50px;
+}
+.calculator-error .group-11 {
+  position: relative;
+  margin: 0 1px 35px 0;
+  padding: 11px 19.4px 10px 19.4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.calculator-error .num-2 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 24px;
+  color: #2B2B2B;
+}
+.calculator-error .rectangle-5 {
+  border: 2px solid #2B2B2B;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 290px;
+  height: 50px;
+}
+.calculator-error .group-10 {
+  position: relative;
+  margin: 0 1px 35px 0;
+  padding: 11px 17px 10px 17px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.calculator-error .container {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.calculator-error .group-3 {
+  background: #2B2B2B;
+  position: relative;
+  display: flex;
+  padding: 16.5px 1px 15.5px 0;
+  width: 61px;
+  box-sizing: border-box;
+}
+.calculator-error .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.calculator-error .group-5 {
+  background: #2B2B2B;
+  position: relative;
+  display: flex;
+  padding: 16px 1px 16px 0;
+  width: 61px;
+  box-sizing: border-box;
+}
+.calculator-error .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.calculator-error .group-6 {
+  background: #2B2B2B;
+  position: relative;
+  display: flex;
+  padding: 21px 1px 11px 0;
+  width: 61px;
+  box-sizing: border-box;
+}
+.calculator-error .container-3 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.calculator-error .group-7 {
+  background: #2B2B2B;
+  position: relative;
+  display: flex;
+  padding: 18px 1px 14px 0;
+  width: 61px;
+  box-sizing: border-box;
+}
+.calculator-error .group-8 {
+  margin: 0 1px 41px 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 14px;
+  width: 286px;
+  box-sizing: border-box;
+}
+/* .calculator-error .error-num-1-cannot-be-empty {
+  margin-left: 10px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FB184E;
+} */
+.error-num-1-cannot-be-empty {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.333;
+  color: #2B2B2B;
+}
+.calculator-error .container {
+  box-shadow: -30px 20px 100px 10px rgba(251, 24, 78, 0.47);
+  border-radius: 30px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 66px 0 38px 0;
+  width: 489px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.calculator-error {
+  background: #FFFFFF;
+  display: flex;
+  padding: 171px 0 147px 0;
+  width: 1393px;
+  box-sizing: border-box;
+}
